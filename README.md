@@ -5,4 +5,4 @@ https://renderstuff.com/tools/360-panorama-web-viewer/
 
 image link
 
-- new home location -
+- [newHomeLocation] (https://renderstuff.com/tools/360-panorama-web-viewer-sharing/?image=https://raw.githubusercontent.com/meangpu/GardenImageTest/main/newHomeLocation.JPG&title=newHomeLocation)
