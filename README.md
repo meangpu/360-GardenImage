@@ -7,6 +7,8 @@ image link
 
 - [newHomeLocation] (https://renderstuff.com/tools/360-panorama-web-viewer-sharing/?image=https://raw.githubusercontent.com/meangpu/GardenImageTest/main/newHomeLocation.JPG&title=newHomeLocation)
 
-- [high] (https://renderstuff.com/tools/360-panorama-web-viewer-sharing/?image=https://raw.githubusercontent.com/meangpu/GardenImageTest/main/High.JPG) ถ่ายที่ความสูง 215m
+ถ่ายที่ความสูง 215m: [high] (https://renderstuff.com/tools/360-panorama-web-viewer-sharing/?image=https://raw.githubusercontent.com/meangpu/GardenImageTest/main/High.JPG)
 
-- [top] (https://renderstuff.com/tools/360-panorama-web-viewer-sharing/?image=https://raw.githubusercontent.com/meangpu/360-GardenImage/main/DJI_0654.JPG&title=top) เยื้องไป
+top บนสวน: [top] (https://renderstuff.com/tools/360-panorama-web-viewer-sharing/?image=https://raw.githubusercontent.com/meangpu/360-GardenImage/main/DJI_0654.JPG&title=top) เยื้องไป
+
+ที่ความสูง 500m: [500m] (https://renderstuff.com/tools/360-panorama-web-viewer-sharing/?image=https://raw.githubusercontent.com/meangpu/360-GardenImage/main/500m.JPG&title=500m)
